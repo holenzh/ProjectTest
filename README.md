@@ -1,4 +1,4 @@
 ProjectTest
 ===========
 
-test for git
+This is a test for git...
